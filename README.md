@@ -41,3 +41,6 @@ The website incorporates a modern color scheme and typography to make it visuall
 **OUTCOME**
 
 The final portfolio website met all the requirements outlined in the instructions. It effectively showcases the developer's projects and skills while maintaining a professional aesthetic. The responsive design ensures accessibility, making it an ideal tool for networking and career advancement.
+
+![Screenshot 2025-01-03 184114](https://github.com/user-attachments/assets/15e57e66-6dbb-48a4-b8ad-72a101c6a96f)
+![Screenshot 2025-01-03 184051](https://github.com/user-attachments/assets/0889fc2e-fd87-4148-8445-978f3ee63742)
